@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleOperationForm", "SimpleOperationForm\SimpleOperationForm.csproj", "{3E67DE3E-9A3E-483D-B5CA-9E6EA5B839DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E67DE3E-9A3E-483D-B5CA-9E6EA5B839DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E67DE3E-9A3E-483D-B5CA-9E6EA5B839DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E67DE3E-9A3E-483D-B5CA-9E6EA5B839DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E67DE3E-9A3E-483D-B5CA-9E6EA5B839DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC76616-1AA9-4137-A3F7-0A67A516C675}
+	EndGlobalSection
+EndGlobal
